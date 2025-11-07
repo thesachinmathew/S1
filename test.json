@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "meter-reads-sach"
+        },
+        "object": {
+          "key": "CUST01/1005541509.jpg"
+
+        }
+      }
+    }
+  ]
+}
