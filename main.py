@@ -4,7 +4,6 @@ import logging
 import urllib.parse
 import pymysql  # Make sure pymysql is added via Lambda Layer
 
-
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
