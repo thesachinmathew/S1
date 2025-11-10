@@ -6,7 +6,6 @@ import re
 import pymysql  # Ensure pymysql is available (Lambda Layer or included in package)
 
 
-
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
